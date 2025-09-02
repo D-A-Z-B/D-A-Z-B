@@ -28,7 +28,6 @@
 ![Unreal](https://img.shields.io/badge/UE5-0E1128?style=for-the-ba&logo=UnrealEngine&logoColor=white)
 > 경험은 있지만 사용만 해본 수준
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=badge&logo=rust&logoColor=white)
 ![Js](https://img.shields.io/badge/JS-F7DF1E?style=badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-033963?style=badge&logo=C&logoColor=white)
 
